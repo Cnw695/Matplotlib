@@ -5,3 +5,4 @@ Technologies Used: Jupyter notebook, Pandas, Matplotlib, Numpy
 
 * Jupyter Notebook -->>Matplotlib-Assignment/Pharma/pharmaceuticals.ipynb
 * Image Files-->>Matplotlib-Assignment/Pharma
+* Data-->>>Matplotlib/Pharma/data/
